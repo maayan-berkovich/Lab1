@@ -1,3 +1,4 @@
+hii
 library(ggplot2)
 library(tidyr)
 recovered_data <- read.csv("C:\\Users\\omrib\\Downloads\\time_series_covid19_recovered_global_narrow.csv")
